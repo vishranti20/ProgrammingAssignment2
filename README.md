@@ -1,4 +1,3 @@
-
 ### Assignment: Caching the Inverse of a Matrix
 
 # read the R script
